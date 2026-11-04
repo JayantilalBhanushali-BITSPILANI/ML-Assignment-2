@@ -2,9 +2,9 @@
 
 **ML Assignment 2 · M.Tech (AIML) · BITS Pilani WILP**
 
-> 🔗 **Live Streamlit App:** `<PASTE YOUR STREAMLIT APP URL HERE>`
-> 
-> 🔗 **GitHub Repository:** ` https://github.com/JayantilalBhanushali-BITSPILANI/ML-Assignment-2`
+> 🔗 **Live Streamlit App:** https://jayantilal-ml-assignment-2.streamlit.app/
+>
+> 🔗 **GitHub Repository:** https://github.com/JayantilalBhanushali-BITSPILANI/ML-Assignment-2
 
 ---
 
@@ -65,7 +65,7 @@ scores an uploaded test CSV using the saved models (no retraining in the app).
 
 ## c. GitHub Repository Link
 
-`<PASTE YOUR GITHUB REPO URL HERE>`
+https://github.com/JayantilalBhanushali-BITSPILANI/ML-Assignment-2
 
 **Repository structure**
 
