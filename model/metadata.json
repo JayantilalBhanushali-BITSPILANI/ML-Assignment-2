@@ -1,0 +1,17 @@
+{
+  "dataset": "UCI Default of Credit Card Clients (id=350)",
+  "trained_on": "2026-10-30T11:22:22",
+  "random_state": 2026,
+  "test_size": 0.2,
+  "n_train": 23972,
+  "n_test": 5993,
+  "n_model_features": 28,
+  "sklearn_version": "1.9.1",
+  "model_files": {
+    "Logistic Regression": "logistic_regression.joblib",
+    "Decision Tree": "decision_tree.joblib",
+    "KNN": "knn.joblib",
+    "Naive Bayes": "naive_bayes.joblib",
+    "Support Vector Machine": "svm.joblib"
+  }
+}
