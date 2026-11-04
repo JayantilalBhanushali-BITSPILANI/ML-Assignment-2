@@ -3,7 +3,8 @@
 **ML Assignment 2 · M.Tech (AIML) · BITS Pilani WILP**
 
 > 🔗 **Live Streamlit App:** `<PASTE YOUR STREAMLIT APP URL HERE>`
-> 🔗 **GitHub Repository:** `(https://github.com/JayantilalBhanushali-BITSPILANI/ML-Assignment-2)`
+> 
+> 🔗 **GitHub Repository:** ` https://github.com/JayantilalBhanushali-BITSPILANI/ML-Assignment-2`
 
 ---
 
